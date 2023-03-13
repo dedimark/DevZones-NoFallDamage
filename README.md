@@ -1,6 +1,10 @@
 # DevZones-NoFallDamage
-Bölgeye giren oyuncular fall damage yemez
 
+### EN
+If the player is in the "nofall" zone, they do not take fall damage.
 
-# DevZones
+### TR
+Oyuncu "nofall" bölgesindeyse düşme hasarı almaz.
+
+## Required(Gereken): DevZones
 https://github.com/Franc1sco/DevZones
